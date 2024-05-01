@@ -1,4 +1,8 @@
 ### Olá! eu sou Arthur Vinicius. 👋👋
+
+⚡ Fun fact: Adoro Futebol ⚽️
+
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/081_neguinho/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-moraes-830815270/)
 
@@ -20,13 +24,10 @@
 <br />
 
 
-![GIF](https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif)
-
-<!--
-**lngg21/lngg21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
-- 😄 Pronouns: Ele/Dele
-- ⚡ Fun fact: Adoro Futebol
--->
+
+
+
+
