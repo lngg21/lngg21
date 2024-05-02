@@ -1,7 +1,20 @@
-### Olá! eu sou Arthur Vinicius. 👋👋
 
-⚡ Fun fact: Adoro Futebol ⚽️
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B231&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Ol%C3%A1+amigo%2C+Bem-vindo+ao+meu+perfil!;Hello+Friend%2C+Welcome+to+my+profile!)](https://git.io/typing-svg)
+
+### Olá! Eu sou Arthur Vinicius. 👋👋
+
+ 
+
+
+<h3>⚡ Fun fact: Adoro Futebol ⚽️ </h3>
+<h3>👩🏽‍💻 Graduando em Sistemas para Internet (Unicap)<h3>  
+<div></div>
+<br />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/dad5d025-91c3-43b9-9a3d-1c9266f77cb7" width="150">
+<br>
+
+<br />
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/081_neguinho/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-moraes-830815270/)
@@ -24,10 +37,6 @@
 <br />
 
 
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500">
 
-
-
-
-
-
-
+<br />
